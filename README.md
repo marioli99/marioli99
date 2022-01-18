@@ -1,6 +1,6 @@
 ## Olá, Eu sou a Mariana Oliveira 💁‍♀️ 
-📓 Estudando front-end
-👧 Pronouns ela/dela
+###📓 Estudando front-end
+###👧 Pronouns ela/dela
 <div align="center">
   <a href="https://github.com/marioli99">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
